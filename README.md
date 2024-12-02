@@ -7,3 +7,10 @@
 # Link das Wikis
 - [Wiki](https://github.com/yumin-gemu/Leap-Quest/wiki
 )
+
+
+# Link do Jogo no Drive
+
+
+- [Jogo](https://drive.google.com/file/d/1LyR1dBXqQTyzW06OC_s6s7LDos-96M96/view?usp=drive_link
+)
