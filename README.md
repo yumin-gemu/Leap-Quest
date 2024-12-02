@@ -12,5 +12,4 @@
 # Link do Jogo no Drive
 
 
-- [Jogo](https://drive.google.com/file/d/1LyR1dBXqQTyzW06OC_s6s7LDos-96M96/view?usp=drive_link
-)
+- [Jogo](https://drive.google.com/file/d/1n7ldHvcItchY3MmwUZkUgT1IzL-ntxiX/view?usp=drive_link)
